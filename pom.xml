@@ -26,7 +26,8 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.peppo.app.MethodReferenceApp</mainClass>
+              <mainClass>com.peppo.app.ForEachApp</mainClass>
+              <!-- <mainClass>com.peppo.app.MethodReferenceApp</mainClass> -->
               <!-- <mainClass>com.peppo.app.SupplierApp</mainClass> -->
               <!-- <mainClass>com.peppo.app.PredicateApp</mainClass> -->
               <!-- <mainClass>com.peppo.app.FunctionApp</mainClass> -->
